@@ -1,6 +1,6 @@
-# title: "Build Triggers in SQLite"
-# author: "Sai Karthikeyan, Sura"
-# date: "02/25/2025"
+# Title: "Build Triggers in SQLite"
+# Author: "Sai Karthikeyan, Sura"
+# Date: "02/25/2025"
 
 # Step 1: Load RSQLite library
 library(RSQLite)
